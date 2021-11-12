@@ -1,9 +1,12 @@
 # WeatherStation
-This is a project of webpage using ThingSpeak server and an Arduino controled with pyfirmata to get remote data to display on it.
+This is a project of webpage using ThingSpeak server and an Arduino controled with pyfirmata and then display this data on it.
 
-#**About This Project**
-The goal of this project is to make a basic web application that gets remote data
+# **More About This Project**
+The goal of this web app is to make digital environment to be used inside a lesson plan designed by undergradute students at UNICAMP. Also This project is part of my master's reaserch, which is related with blended learning and flipped classroom. 
 
+# **What needs to be implemented**
+A created a database conection using MySQL that
+ 
 # **To Make this Work With your own Data**
 
 **1** - You'll need to create a ThingSpeak account at: https://thingspeak.com/ and then create your own channel                  
