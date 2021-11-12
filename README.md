@@ -4,10 +4,10 @@ This is a project of webpage using ThingSpeak server and an Arduino controled wi
 # **More About This Project**
 The goal of this web app is to make digital environment to be used inside a lesson plan designed by undergradute students at UNICAMP. Also This project is part of my master's reaserch, which is related with blended learning and flipped classroom. 
 
-# **What needs to be implemented**
+# **What Needs to Be Implemented**
 I created a database conection using MySQL, althoug this application hasn't any kind of feature using this. In this sense, I'm planning to use this database connection to get students feedbacks and store arduino data on it.
 
-# **To Make this Work With your own Data**
+# **To Make this Work With Your Own Data**
 
 **1** - You'll need to create a ThingSpeak account at: https://thingspeak.com/ and then create your channel               
 **2** - You have to upload the [StandardFirmanta.ino](https://github.com/lucasdmcax/WeatherStation/blob/main/StandardFirmata.ino) on your arduino board ( this script came in the raw arduino as an example) <br />
