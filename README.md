@@ -9,8 +9,8 @@ I created a database conection using MySQL, althoug this application hasn't any 
 
 # **To Make this Work With your own Data**
 
-**1** - You'll need to create a ThingSpeak account at: https://thingspeak.com/ and then create your channel                  
-**2** - You have to upload the [StandardFirmanta.ino](https://github.com/lucasdmcax/WeatherStation/blob/main/StandardFirmata.ino) on your arduino board ( this script came in the raw arduino as an example)
-**3** - At the [thingspeak_pyfirmata.py](https://github.com/lucasdmcax/WeatherStation/blob/main/thingspeak_pyfirmata.py), You have to feed this script with your channel informations and let it running on some PC connected to an Arduino. (Currently I'm testing with a Rasberry pi 3b+ and it's working fine)
+**1** - You'll need to create a ThingSpeak account at: https://thingspeak.com/ and then create your channel               
+**2** - You have to upload the [StandardFirmanta.ino](https://github.com/lucasdmcax/WeatherStation/blob/main/StandardFirmata.ino) on your arduino board ( this script came in the raw arduino as an example) <br />
+**3** - At the [thingspeak_pyfirmata.py](https://github.com/lucasdmcax/WeatherStation/blob/main/thingspeak_pyfirmata.py), You have to feed this script with your channel informations and let it running on some PC connected to an Arduino. (Currently I'm testing with a Rasberry pi 3b+ and it's working fine) <br />
 **4** - Finally,At the [real_time_data.php](https://github.com/lucasdmcax/WeatherStation/blob/main/Site/real_time_data.php) You have to feed with your ThingSpeak <iframe>
   
